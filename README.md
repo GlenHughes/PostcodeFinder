@@ -1,3 +1,5 @@
+**THIS WAS JUST A BIT OF FUN WITH V0 AND CURSOR TO SEE HOW QUICKLY I COULD PUT SOMETHING BASIC TOGETHER USING AN API AND UI TO RENDER. USE AT OWN WILL**
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
